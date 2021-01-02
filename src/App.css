@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-color: rgb(240, 240, 247);
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+button:focus {
+  border: none;
+}
+
+button:visited {
+  border: none;
+}
+
+button:active {
+  border: none;
+}
